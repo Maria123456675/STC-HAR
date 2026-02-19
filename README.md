@@ -2,9 +2,9 @@ STC-HAR: Skeleton-Based Human Action Recognition with Spatio-Temporal-Channel At
 
 This repository contains the official implementation of the paper:  
 "Enhancing Human Action Recognition with a Hybrid 3D-CNN-LSTM-GCN Architecture and Spatio-Temporal-Channel Attention",  
-submitted to *The Visual Computer* (Springer Nature).
+an international peer-reviewed journal (Springer).
 
-This code implements the manuscript submitted to *The Visual Computer* — skeleton-only, reproducible, peer-review-ready.
+This repository provides reproducible research code accompanying the manuscript.
 
 ## Key Contributions
 - A unified hybrid 3D-CNN–LSTM–GCN framework for skeleton-based HAR
@@ -24,3 +24,4 @@ Download datasets:
 
 
 Place skeleton JSON files in `data/` folder:
+
